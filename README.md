@@ -1,8 +1,15 @@
-# chatbot
+# Report - Louchart Boris
+
+# Chatbot
 
 This chatbot recommends recipes using an API, you can discuss with it in natural language. 
+There are two parts in the source code, a part allowing to set up a recommendation system as a flask API in python and a second part corresponding to the chatbot coded in JS.
 
-You can ask it questions like:
+
+If you want to contact this bot, download Telegram on your phone then contact "colab_boris".
+
+
+## You can ask it questions like:
 ```
 I need a recipe for (lunch/diner/breakfast/starter) with (name of what you like)
 ```
